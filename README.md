@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hruthik</h1>
 <h3 align="center">2+ years of experience; Passionate about solving real-world problems with a solid understanding of Machine Learning and Deep Learning. Collaborative, adaptable, and able to manage multiple priorities effectively with positive attitude</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hruthikbm&label=Profile%20views&color=0e75b6&style=flat" alt="hruthikbm" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bmhruthik" target="blank"><img src="https://img.shields.io/twitter/follow/bmhruthik?logo=twitter&style=for-the-badge" alt="bmhruthik" /></a> </p>
